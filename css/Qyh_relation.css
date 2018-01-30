@@ -1,0 +1,338 @@
+.login{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: rgba(000,000,000,0.5);
+	z-index: 10;
+	display: none;
+	
+}
+.login_lo{
+	width: 495px;
+	height: 545px;
+	background: #FFFFFF;
+	text-align: center;
+	margin: 200px auto;
+	padding-top: 10px;
+	position: relative;
+}
+.login_lo .image{
+	
+}
+.login_lo ul{
+	width: 290px;
+	height: 20px;
+	border-bottom: 1px solid #cccccc;
+	margin: auto;
+	margin-bottom: 20px;
+}
+.login_lo .li1{
+	border-right: 1px solid #cccccc;
+}
+.login_lo .li1 a{
+	color: #ff0000;
+}
+.login_lo li{
+	float: left;
+	width: 144px;
+}
+.login_lo table{
+	border: 1px solid #CCCCCC;
+	margin-left:100px ;
+	margin-bottom:20px ;
+}
+.login_lo th{
+	width: 74px;
+	height: 40px;
+	margin-bottom: 20px;
+}
+.login_lo input{
+	width: 214px;
+	height: 40px;
+	border: none;
+}
+.Wjma{
+	position: absolute;
+	right: 90px;
+	bottom: 245px;
+}
+.Wjma:hover{
+	color: #ff0000;
+}
+.login_lo button{
+	width: 90px;
+	height: 30px;
+	background: #FF0000;
+	border: none;
+	color: #FFFFFF;
+	margin-bottom: 40px;
+}
+.debark{
+	width: 290px;
+	height: 90px;
+	margin: auto;
+	border-top: 1px solid #CCCCCC;
+	padding-top: 30px;
+}
+.debark p{
+	margin-bottom: 30px;
+}
+.mistake{
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.mistake:hover{
+	background: #ff0000;
+	color: #ffffff;
+}
+
+.roof{
+	border-top: 13px solid #eb1b23;
+	width: 100%;
+	height: 117px;
+	background: #eeeeee;
+}
+.head{
+	width: 1200px;
+	margin: auto;
+	
+}
+.logo{
+	float: left;
+	margin-left: 40px;
+}
+.head ul{
+	float: left;
+	margin-left: 110px;
+}
+.head ul li{
+	float: left;
+	margin: 0 15px;
+}
+.head ul a{
+	line-height: 116px;
+}
+.head ul a:hover{
+	color: #EB1B23;
+}
+.head .page{
+	text-decoration: underline;
+	color: #EB1B23;
+}
+.head_search{
+	width: 167px;
+	float: right;
+	position: relative;
+}
+.head_search p{
+	font-size: 12px;
+	float: right;
+	color: #3f3f3f;
+}
+.head_search input{
+	width: 113px;
+	margin-top: 48px;
+}
+.head_search img{
+	position: absolute;
+}
+.head_search img:hover{
+	transition: all 0.5s;
+	transform: scale(1.5);
+}
+.head_search .t1{
+	top: 49px;
+	right:51px ;
+	position: absolute;
+	background: url(../image/Qyh_homepage_jlt_06.jpg);
+	width: 17px;
+	height: 17px;
+	border: none;
+}
+.head_search .t2{
+	top: 49px;
+	right:5px ;
+}
+.head_search .t3{
+	top: 49px;
+	right:27px ;
+}
+.banner{
+	height: 607px;
+	overflow: hidden;
+	position: relative;
+}
+.banner img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.banner .img2{
+	display: none;
+	
+}
+.navigation{
+	background: #343434;
+	width: 100%;
+	margin-bottom: 70px;
+}
+.navigation1{
+	width: 1200px;
+	height: 67px;
+	margin: auto;
+}
+.navigation1 ul li{
+	float: left;
+	
+	margin: 0 255px;
+	text-align: center;
+}
+
+.navigation1 .a1{
+	color: #eb1b23;
+}
+.navigation1 a{
+	color: #fff;
+	width: 90px;
+	line-height: 67px;
+	width: 90px;
+	display: block;
+	
+}
+.navigation1 a:hover{
+	color: #eb1b23;
+	transition: all 0.5s;
+	transform: scale(1.5);
+}
+.content{
+	width: 1200px;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.content h5{
+	line-height: 30px;
+	margin-bottom: 30px;
+}
+.content .a1{
+	color:#eb1b23 ;
+}
+.inquire{
+	width: 1200px;
+	margin: auto;
+	text-align: center;
+	margin: 100px 0;
+	color: #6c6c6c;
+}
+.content_path_r{
+	width: 570px;
+	height: 300px;
+	float: right;
+	background: #f2f2f2;
+	text-align: left;
+	font-size: 14px;
+	padding-top: 20px;
+}
+
+.content_path_r p{
+	line-height: 30px;
+	margin-bottom: 45px;
+	margin-left: 80px;
+	position: relative;
+}
+.content_path_r span{
+	position: absolute;
+	height: 35px;
+	width: 33px;
+	top: 2px;
+	left: -55px;
+}
+.content_path_r .sp2{
+	top: 18px;
+}
+.content_path_r .sp3{
+	top: 20px;
+}
+.Aftermarket{
+	height: 510px;
+}
+
+.Aftermarket_1{
+	width: 282px;
+	height: 214px;
+	background: #efefef;
+	text-align: center;
+	padding-top: 35px;
+	float: left;
+	margin: 0 17px 15px 0;
+}
+.TuPian{
+	height: 45px;
+}
+.TuPian img{
+	height: 100%;
+}
+.Aftermarket_1 p{
+	line-height: 75px;
+	color: #6c6c6c;
+}
+
+
+
+
+.footertop{
+	background: #4d4d4d;
+	padding-top: 40px;
+	height: 168px;
+}
+.footertop1{
+	width: 1200px;
+	margin: auto;
+	height: 187px;
+	position: relative;
+}
+
+.sum{
+	width: 80px;
+	text-align: center;
+	float: left;
+	margin-right: 50px;
+	color: #c1c1c1
+}
+.sum a{
+	font-size: 12px;
+	color: #c1c1c1;
+}
+.sum a:hover{
+	color: #FFFFFF;
+}
+.return_r{
+	width: 225px;
+	float: right;
+}
+.return_r img{
+	margin:10px 35px 0 0;
+	
+}
+.footerbotton{
+	background: #000000;
+	height: 40px;
+}
+.footerbotton1{
+	width: 1200px;
+	margin:  0 auto;
+	color: #c1c1c1;
+}
+.footerbotton1 p{
+	line-height: 40px;
+	font-size: 12px;
+}
+.footerbotton1 .p1{
+	float: left;
+}
+.footerbotton1 .p2{
+	float: right;
+}

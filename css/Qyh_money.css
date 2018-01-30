@@ -1,0 +1,210 @@
+.login{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: rgba(000,000,000,0.5);
+	z-index: 10;
+	display: none;
+	
+}
+.login_lo{
+	width: 495px;
+	height: 545px;
+	background: #FFFFFF;
+	text-align: center;
+	margin: 200px auto;
+	padding-top: 10px;
+	position: relative;
+}
+.login_lo .image{
+	
+}
+.login_lo ul{
+	width: 290px;
+	height: 20px;
+	border-bottom: 1px solid #cccccc;
+	margin: auto;
+	margin-bottom: 20px;
+}
+.login_lo .li1{
+	border-right: 1px solid #cccccc;
+}
+.login_lo .li1 a{
+	color: #ff0000;
+}
+.login_lo li{
+	float: left;
+	width: 144px;
+}
+.login_lo table{
+	border: 1px solid #CCCCCC;
+	margin-left:100px ;
+	margin-bottom:20px ;
+}
+.login_lo th{
+	width: 74px;
+	height: 40px;
+	margin-bottom: 20px;
+}
+.login_lo input{
+	width: 214px;
+	height: 40px;
+	border: none;
+}
+.Wjma{
+	position: absolute;
+	right: 90px;
+	bottom: 245px;
+}
+.Wjma:hover{
+	color: #ff0000;
+}
+.login_lo button{
+	width: 90px;
+	height: 30px;
+	background: #FF0000;
+	border: none;
+	color: #FFFFFF;
+	margin-bottom: 40px;
+}
+.debark{
+	width: 290px;
+	height: 90px;
+	margin: auto;
+	border-top: 1px solid #CCCCCC;
+	padding-top: 30px;
+}
+.debark p{
+	margin-bottom: 30px;
+}
+.mistake{
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.mistake:hover{
+	background: #ff0000;
+	color: #ffffff;
+}
+
+
+
+
+
+
+.roof{
+	border-top: 13px solid #eb1b23;
+	width: 100%;
+	height: 117px;
+	background: #eeeeee;
+}
+.head{
+	width: 1200px;
+	margin: auto;
+	
+}
+.logo{
+	float: left;
+	margin-left: 40px;
+}
+.head ul{
+	float: left;
+	margin-left: 110px;
+}
+.head ul li{
+	float: left;
+	margin: 0 15px;
+}
+.head ul a{
+	line-height: 116px;
+}
+.head ul a:hover{
+	color: #EB1B23;
+}
+.head .page{
+	text-decoration: underline;
+	color: #EB1B23;
+}
+.head_search{
+	width: 167px;
+	float: right;
+	position: relative;
+}
+.head_search p{
+	font-size: 12px;
+	float: right;
+	color: #3f3f3f;
+}
+.head_search input{
+	width: 113px;
+	margin-top: 48px;
+}
+.head_search img{
+	position: absolute;
+}
+.head_search img:hover{
+	transition: all 0.5s;
+	transform: scale(1.5);
+}
+.head_search .t1{
+	top: 49px;
+	right:51px ;
+	position: absolute;
+	background: url(../image/Qyh_homepage_jlt_06.jpg);
+	width: 17px;
+	height: 17px;
+	border: none;
+}
+.head_search .t2{
+	top: 49px;
+	right:5px ;
+}
+.head_search .t3{
+	top: 49px;
+	right:27px ;
+}
+
+.headline{
+	width: 100%;
+	border-bottom: 1px solid #a0a0a0;
+}
+.headline_1{
+	height: 265px;
+	width: 1200px;
+	margin: auto;
+	text-align: center;
+	
+}
+.headline h1{
+	line-height: 265px;
+	color: #888888;
+}
+.succeed{
+	width: 1200px;
+	margin: auto;
+	text-align: center;
+	padding-top: 20px;
+}
+.succeed p{
+	margin-bottom: 84px;
+	font-size: 50px;
+	color: #888888;
+}
+.succeed button{
+	width: 240px;
+	height: 70px;
+	background: #eb1b23;
+	border: none;
+	color: #FFFFFF;
+	font-size: 30px;
+	margin: 0 70px;
+}
+.succeed h6{
+	font-size: 20px;
+	line-height: 50px;
+	color: #888888;
+	margin-top: 50px;
+}
